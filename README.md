@@ -16,6 +16,7 @@ In this class,we will set up four different scenarios for robot competition. The
 任务：提供1个舵机，若干塑料小球，要求自己设计一个抛射杆，抛射杆一端连接到舵机，另外一端盛放小球，驱动舵机转动抛射杆抛出小球，距离舵机前方10cm处有一个框1，距离舵机前方20cm处有一个框2，把小球抛入框1内得1分，把小球抛入框2内得2分，在10分钟之内，得分最高者获胜。  
   
 ## Speeding Car  
+任务：使用提供的小车，在摆放的障碍中穿行，通过障碍用时最短者获胜。
 
 
 
