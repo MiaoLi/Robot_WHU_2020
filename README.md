@@ -8,7 +8,7 @@ In this class,we will set up four different scenarios for robot competition. The
 
 ## Random Walk
 任务：使用4个舵机制作一个简易版的四足行走机器人，四条腿的形状不限。  
-目标：启动机器人，在3分钟之内走出距离者最远获胜。  
+目标：启动机器人，在3分钟之内走出距离最远者获胜。  
   
 ## Floating Forward
 任务：
