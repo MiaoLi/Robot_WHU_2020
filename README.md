@@ -20,7 +20,9 @@ In this class,we will set up four different scenarios for robot competition. The
 ![](https://github.com/MiaoLi/Robot_WHU_2020/blob/main/image2.JPG)
   
 ## Speeding Car  
-任务：使用提供的小车，在摆放的障碍中穿行，通过障碍用时最短者获胜。
+任务：使用提供的小车，在摆放的障碍中穿行，通过障碍用时最短者获胜。  
+如图：  
+![](https://github.com/MiaoLi/Robot_WHU_2020/blob/main/car.PNG)
 
 
 
