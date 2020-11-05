@@ -8,7 +8,7 @@ In this class,we will set up four different scenarios for robot competition. The
 5. Floating Forward
 
 ## Random Walk
-任务：使用4个舵机制作一个简易版的四足行走机器人，四条腿的形状不限。机器人整体尺寸不能超过100x100x100mm。启动机器人，在3分钟之内走出距离最远者获胜。  
+任务：使用4个舵机制作一个简易版的四足行走机器人，四条腿的形状不限。机器人整体尺寸不能超过150x150x150mm。启动机器人，在3分钟之内走出距离最远者获胜。  
 示例：  
 ![](https://github.com/MiaoLi/Robot_WHU_2020/blob/main/image1.JPG)  
   
