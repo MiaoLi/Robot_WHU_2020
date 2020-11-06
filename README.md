@@ -6,6 +6,7 @@ In this class,we will set up five different scenarios for robot competition. The
 3. Throwing Balls
 4. Speeding Car  
 5. Floating Forward
+
 After the competition, each group is *required* to submit a report to fully document the whole procedure, including the initial design process and the final implementation method. The length of the report should be longer than 10 A4 pages in word or latex. If you have any problems during this competition, please feel free to contact us through the course wechat group.
 
 ** Keep in mind that this is the first time that we have this course at WHU and any problem you may have is understandable. Keep moving!  
