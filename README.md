@@ -1,12 +1,16 @@
 # Robot_WHU_2020
 This package is used to describe the robot competition for WHU design and manufacturing class 2020.
-In this class,we will set up four different scenarios for robot competition. The main 
+In this class,we will set up five different scenarios for robot competition. The detailed describitipn are given below: 
 1. Random Walk
 2. Grasp and Move
 3. Throwing Balls
 4. Speeding Car  
 5. Floating Forward
+After the competition, each group is *required* to submit a report to fully document the whole procedure, including the initial design process and the final implementation method. The length of the report should be longer than 10 A4 pages in word or latex. If you have any problems during this competition, please feel free to contact us through the course wechat group.
 
+** Keep in mind that this is the first time that we have this course at WHU and any problem you may have is cunderstandable. Keep moving!  
+------------------------------------------------
+------------------------------------------------
 ## Random Walk
 任务：使用4个舵机制作一个简易版的四足行走机器人，四条腿的形状不限。机器人整体尺寸不能超过150x150x150mm。启动机器人，在3分钟之内走出距离最远者获胜。  
 示例：  
