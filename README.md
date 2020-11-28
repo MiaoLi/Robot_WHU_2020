@@ -13,7 +13,7 @@ After the competition, each group is *required* to submit a report to fully docu
 ------------------------------------------------
 ------------------------------------------------
 ## Random Walk
-任务：使用4个舵机制作一个简易版的四足行走机器人，四条腿的形状不限。机器人整体尺寸不能超过150x150x150mm。启动机器人，在3分钟之内走出距离最远者获胜。  
+任务：使用8个舵机制作一个简易版的四足行走机器人，四条腿的形状不限。机器人整体尺寸不能超过150x150x150mm。启动机器人，在3分钟之内走出距离最远者获胜。  
 示例：  
 ![](https://github.com/MiaoLi/Robot_WHU_2020/blob/main/image1.JPG)  
   
@@ -26,7 +26,7 @@ After the competition, each group is *required* to submit a report to fully docu
 ![](https://github.com/MiaoLi/Robot_WHU_2020/blob/main/image2.JPG)
   
 ## Speeding Car  
-任务：使用提供的小车，在摆放的障碍中穿行，通过障碍用时最短者获胜。  
+任务：使用提供的小车，给出一段弯曲的路径，路径两边会摆放纸板。比赛开始、小车启动之后，参赛者不能遥控小车、不能接触小车，只能靠赛前烧录的程序控制小车，小车通过路径到达终点用时最短者获胜。路径赛前不给出，比赛时现场随意给出一段弯曲路径，但路径不会出现大于90度的弯角。  
 如图：  
 ![](https://github.com/MiaoLi/Robot_WHU_2020/blob/main/car.PNG)
 
